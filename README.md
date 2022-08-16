@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kimyul2
+- 👀 I’m interested in WEB
+- 🌱 I’m currently learning Database (mysql)
+- 📫 How to reach me yulyul3675@gmail.com
